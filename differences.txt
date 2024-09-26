@@ -1,0 +1,30 @@
+Differences found:
+Table 'GP_MEDNEC_DIAGNOSIS' is missing in GCM.db.xml.
+Table 'GS_BILCODESLINK' is missing in GCM.db.xml.
+Table 'GS_FFLAGS' is missing in GCM.db.xml.
+Table 'GP_PATIENT_CLINMNG' is missing in GCM.db.xml.
+Table 'GS_TESTDUPLRULE_TEST' is missing in GCM.db.xml.
+Table 'GS_ACMGTABLESHISTORY' is missing in GCM.db.xml.
+Table 'GS_LAYOUTRULES_QUAL' is missing in GCM.db.xml.
+Table 'GS_OPTS_CMNPAGENUM' is missing in GCM.db.xml.
+Table 'GP_BILLINGCMP' is missing in GCM.db.xml.
+Table 'GS_OPTS_CMNPAGENUM_DEPT' is missing in GCM.db.xml.
+Table 'GS_STUDY' is missing in GCM.db.xml.
+Table 'GS_CTG_SIGNALCTRL' is missing in GCM.db.xml.
+Table 'GS_MRT_TEMPLATE' is missing in GCM.db.xml.
+Table 'GS_LAYOUTRULES_ACTIV' is missing in GCM.db.xml.
+Table 'GP_BILTRANSMITCMP' is missing in GCM.db.xml.
+Table 'GP_SCHPAR' has different Category: RESULT (in GCM.db.xml) != XYZ (in GSCMNDB.db.xml)
+Table 'GP_SCHPAR' has different SubCategory: GCM (in GCM.db.xml) != XYZ (in GSCMNDB.db.xml)
+Table 'GP_SCHPAR' has different Product: GCM (in GCM.db.xml) != XYZ (in GSCMNDB.db.xml)
+Table 'GS_OPTS_NTUEMPTYUDF' is missing in GCM.db.xml.
+Table 'GS_WKSTSTATTFORCTRLS' is missing in GCM.db.xml.
+Table 'GS_OPT_REQ_DIAGNOSES' is missing in GCM.db.xml.
+Table 'GS_TASKLIST_GRPCOMP' is missing in GCM.db.xml.
+Table 'GS_WKS_CONTROLS' is missing in GCM.db.xml.
+Table 'GS_OPT_MNC_REFLEX_TST' is missing in GCM.db.xml.
+Table 'GS_OPT_MNC_REFLEX_RULE' is missing in GCM.db.xml.
+Table 'GP_AUDITTRAIL_EXTRA_CRITERIA' is missing in GCM.db.xml.
+Table 'GS_RBS_QARULEITEMEL' is missing in GCM.db.xml.
+Table 'GS_TESTDUPLRULE_TECH' is missing in GCM.db.xml.
+Table 'GS_TESTDUPLRULE' is missing in GCM.db.xml.
